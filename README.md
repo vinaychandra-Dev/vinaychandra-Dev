@@ -5,6 +5,6 @@
 - 📫 How to reach me
 -    Email: [vinaychandra3241@gmail.com]
 -    LinkedIn: [https://www.linkedin.com/in/vinaychandradev/]
--    X(Twitter): []
+-    X(Twitter): [https://x.com/HomeBoi_XD]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "Why do programmers prefer dark mode? Because light attracts bugs!" 
